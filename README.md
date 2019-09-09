@@ -7,3 +7,4 @@ Tombol
 Binding View / findViewById ()
 mengambil nilai dari edittext ==> editText.get.Text (). toString ();
 parsing / mengubah String ke Int ==> Interger.parseInt (etTinggi.getText (). toString ());
+![alt text](https://imgur.com/GgSpSLf.png)
